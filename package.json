@@ -19,5 +19,9 @@
   "homepage": "https://github.com/programadornovato2021/ui_ebac#readme",
   "devDependencies": {
     "cypress": "^9.6.1"
+  },
+  "dependencies": {
+    "faker": "^6.6.6",
+    "faker-br": "^0.4.1"
   }
 }
