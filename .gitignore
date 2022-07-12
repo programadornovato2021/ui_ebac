@@ -1,6 +1,2 @@
-cipreste/resultados/*
-cipreste/relatórios/*
-cipreste/capturas de tela/*
-cipreste/vídeos/*
-cipreste/node_modules/*
+node_modules/*
 
