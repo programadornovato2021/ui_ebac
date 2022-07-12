@@ -1,11 +1,6 @@
-### CypressIO ###
-# gitignore template para o CypressIO, framework de teste do navegador
-# site: https://www.cypress.io/
-
 cipreste/resultados/*
 cipreste/relatórios/*
 cipreste/capturas de tela/*
 cipreste/vídeos/*
 cipreste/node_modules/*
 
-# Fim de https://www.toptal.com/developers/gitignore/api/cypressio
